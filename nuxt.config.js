@@ -9,8 +9,9 @@ export default defineNuxtConfig({
   srcDir: 'app/',
 
   modules: [
-    '@nuxt/eslint'
-  ],
+  '@nuxt/eslint',
+  '@nuxtjs/tailwindcss'
+],
 
   // Supabase-Verbindung über Environment-Variablen.
   // Werte in `.env` eintragen — siehe `.env.example`.
