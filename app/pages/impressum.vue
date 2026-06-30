@@ -16,7 +16,8 @@
 
     <p>
       Verantwortlich für den Inhalt:<br>
-      Prof. Dr. Christian Krauss<br>
+      Maximilian Steinbach<br>
+      Matrikelnummer: 946705 <br>
       HAW Kiel<br>
       Sokratesplatz 2, 24149 Kiel
     </p>
