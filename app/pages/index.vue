@@ -11,7 +11,7 @@
   <section>
     <PageHeader
       title="Sprechstunden-Buchungssystem"
-      subtitle="Prof. Dr. Christian Krauss · HAW Kiel"
+      subtitle="Maximilian Steinbach 946705 · HAW Kiel"
     />
 
     <p>
